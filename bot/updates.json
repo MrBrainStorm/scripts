@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "message": {
+        "date": 1485949576,
+        "from": {
+          "id": 258077370,
+          "first_name": "Mr.BrainStorm"
+        },
+        "text": "Привет",
+        "chat": {
+          "id": 258077370,
+          "type": "private",
+          "first_name": "Mr.BrainStorm"
+        },
+        "message_id": 10
+      },
+      "update_id": 257189945
+    }
+  ]
+}
